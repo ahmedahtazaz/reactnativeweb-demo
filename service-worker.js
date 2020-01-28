@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/reactnativeweb-demo/precache-manifest.690708830205c6ebffd6e29fc49321a1.js"
+  "/reactnativeweb-demo/precache-manifest.acb6f99aaae38f52fc98fa43442779d3.js"
 );
 
 self.addEventListener('message', (event) => {
